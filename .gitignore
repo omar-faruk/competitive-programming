@@ -1,6 +1,6 @@
 *
 !*.c
-!.cpp
+!*.cpp
 !Makefile
 !*/
 !*.py
