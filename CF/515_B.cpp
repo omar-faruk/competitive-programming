@@ -26,7 +26,7 @@ int main()
 			cin>>index;
 			hgI[index]=1;
 		}
-		for(i=0;i<1000000;i++){
+		for(i=0;i<10000;i++){
 			gi=i%nG;
 			bi=i%nB;
 			if(hbI[bi]==1 || hgI[gi]==1){
